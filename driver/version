@@ -1,0 +1,4 @@
+# please use 32-bit driver
+selenium: 3.10
+ieDriver: 3.10
+chromeDriver: 2.44
